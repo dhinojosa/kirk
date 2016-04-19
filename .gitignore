@@ -56,6 +56,10 @@ buildNumber.properties
 
 # sftp configuration file
 sftp-config.json
+
+.idea/
+*.iml
+
 ### Vim template
 # swap
 [._]*.s[a-w][a-z]
