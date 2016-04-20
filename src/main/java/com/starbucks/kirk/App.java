@@ -15,7 +15,6 @@ public class App {
 			System.out.println(args[i]);
 		}
 		
-		;
 		System.out.println(Joiner.on("--").join(Lists.newArrayList(4,5,3,5,10)));
 		
 		Sets.newHashSet(4,5,2,1,5,9,10);
