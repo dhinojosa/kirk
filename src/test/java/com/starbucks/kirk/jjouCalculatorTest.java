@@ -8,10 +8,6 @@ public class jjouCalculatorTest {
 	
 	@Test
 	public void testAdditionOfTwoNumbers(){
-/*		int numberOne = 10;
-		int numberTwo = 600;
-		assert((numberOne+numberTwo)>610);
-*/	
 	JJOUCalculator cal = new JJOUCalculator();
 	assertEquals(9, cal.add(4,5));
 	
